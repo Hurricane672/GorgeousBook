@@ -10,7 +10,7 @@
 
 ## 4. 鸣谢
 
-感谢两位与笔者共同开发本项目的同仁：[@Julius-stein](https://github.com/Julius-stein)、[@MagicBoy](https://github.com/MERCHANT01)，以及所有为本项目成功开发提供帮助的师傅们。
+感谢与笔者共同开发本项目的同仁：[@Julius-stein](https://github.com/Julius-stein)、[@MagicBoy](https://github.com/MERCHANT01)，以及所有为本项目成功开发提供帮助的师傅们。
 
 ## 5. 联系方式
 
